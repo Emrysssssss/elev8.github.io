@@ -4,15 +4,15 @@ SEOTitle: Jacob | by BY
 header-img: img/post-bg-desk.jpg
 email: g810345199@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, Jacob, 邱柏荧, iOS, Apple, iPhone"
-url: "http://elev8.github.io"          # your host, for absolute URL
+keyword: "stimulate, motivate, elevate, iOS, Apple, iPhone"
+url: "http://stimul8.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Emrysssssss/elev8.github.io" # you code repository
+github_repo: "https://github.com/stimul8/stimul8.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-BY-gentle.jpg      # Use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     Jacob
 zhihu_username:     Jacob
-github_username:    Jacob
+github_username:    stimul8
 facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
 #twitter_username:   Jacob
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: Jacob
+disqus_username: stimul8
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: Jacob.github.io    #仓库名称
-  owner: Jacob    #github用户名
-  admin: Jacob
+  clientID: 118479fe87e23063b7c2                            #生成的clientID
+  clientSecret: 14dff8e6e1fcf199358b70d6ce570e4dc14a759b    #生成的clientSecret
+  repo: stimul8.github.io    #仓库名称
+  owner: stimul8    #github用户名
+  admin: stimul8
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
