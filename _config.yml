@@ -1,7 +1,7 @@
 # Site settings
 title: stimul8
-SEOTitle: Explore & Share
-header-img: img/post-bg-desk.jpg
+SEOTitle: Stimul8 | Explore & Share
+header-img: img/home-bg.jpg
 email: ██刮██开██此██处██
 description: "Every failure is leading towards success."
 keyword: "stimulate, motivate, elevate, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/stimul8/stimul8.github.io" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # Use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-myself.jpg      # Use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
