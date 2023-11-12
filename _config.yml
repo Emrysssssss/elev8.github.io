@@ -2,7 +2,7 @@
 title: stimul8
 SEOTitle: Stimul8 | Explore & Share
 header-img: img/home-bg.jpg
-email: ██刮██开██此██处██
+email: ██████████
 description: "Every failure is leading towards success."
 keyword: "stimulate, motivate, elevate, iOS, Apple, iPhone"
 url: "http://stimul8.github.io"          # your host, for absolute URL
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-myself.jpg      # Use absolute URL, seeing it's used 
 
 # SNS settings
 RSS: false
-# weibo_username:     Jacob
-# zhihu_username:     Jacob
-# github_username:    stimul8
-# facebook_username:  baiying.qiu.7
+weibo_username:     usembassy
+zhihu_username:     kaifulee
+github_username:    stimul8
+facebook_username:  zuck
 # jianshu_username:   e71990ada2fd
-# twitter_username:   Jacob
+twitter_username:   elonmusk
 
 
 
