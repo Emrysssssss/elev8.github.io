@@ -6,7 +6,7 @@ email: ██████████
 description: "Every failure is leading towards success."
 keyword: "stimulate, motivate, elevate, iOS, Apple, iPhone"
 url: "http://stimul8.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "stimul8.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/stimul8/stimul8.github.io" # you code repository
 
 # Sidebar settings
